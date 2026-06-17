@@ -2,38 +2,30 @@
 
 My name is Oktawian.
 
-I am currently learning cybersecurity with a focus on Security Operations (SOC) and web application security.
+# Cybersecurity learner focused on Security Operations (SOC) and web application security.
 
-My GitHub contains writeups and documentation from platforms such as TryHackMe and PortSwigger Web Security Academy, where I practice attack analysis, vulnerability research and security fundamentals.
+## Currently building practical skills through:
+- TryHackMe (SOC Level 1, Jr Pentester paths)
+- PortSwigger Web Security Academy
+- Python scripting for log analysis and automation
 
-## Focus Areas
+## Core focus:
+- SOC analysis (logs, incidents, alerts)
+- Web application security (OWASP Top 10)
+- Detection of common vulnerabilities (XSS, SQLi, auth issues)
 
-* Security Operations (SOC)
-* Web Application Security
-* OWASP Top 10
-* Burp Suite (Proxy, Repeater, Intruder)
-* SQL Injection, XSS, Access Control, Authentication Flaws
-* Python for automation and security-related tasks
+## Technical skills:
+- Burp Suite (Proxy, Repeater, Intruder)
+- Basic Python for security automation
+- HTTP, networking fundamentals
 
-## Learning Platforms
+## Projects:
+- TryHackMe writeups (SOC & Pentest)
+- PortSwigger vulnerability labs analysis
 
-* TryHackMe (SOC Level 1, Junior Pentester)
-* PortSwigger Web Security Academy
+## Goal:
+Entry-level SOC Analyst role and continuous development in cybersecurity.
 
-## Interests
-
-* Cybersecurity
-* Web Security Research
-* Chess
-* Fitness / Strength Training
-
-## Goal
-
-To start my cybersecurity career as a SOC Analyst and continue developing my offensive security skills.
-
-## Contact
-
-Feel free to reach out if you would like to discuss cybersecurity topics or provide feedback on my work.
 
 
 
