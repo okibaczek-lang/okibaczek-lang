@@ -4,7 +4,7 @@
 I'm transitioning into **Data Analytics** — building practical skills through real projects, not just courses.
 
 Currently learning: **SQL → Power BI → Python/Pandas**
-Goal: Junior Data Analyst role in 2025
+Goal: Junior Data Analyst role in 2027
 
 ---
 
