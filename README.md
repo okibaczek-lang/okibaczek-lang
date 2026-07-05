@@ -10,21 +10,17 @@ Goal: Junior Data Analyst role in 2027
 
 ## 🛠️ Skills I'm building
 
-| Tool | Level | Status |
-|---|---|---|
-| Excel (PivotTables, VLOOKUP, Power Query) | Intermediate | ✅ In progress |
-| SQL (SELECT, JOIN, Window Functions) | Beginner → Intermediate | 🔄 Next |
-| Power BI (DAX, Data Modeling) | Beginner | 📅 Coming |
-| Python + Pandas | Beginner | 📅 Coming |
-| Git / GitHub | Beginner | ✅ In progress |
+| Tool|
+|---|
+| Excel (PivotTables, VLOOKUP, Power Query) |
+| SQL (SELECT, JOIN, Window Functions) |
+| Power BI (DAX, Data Modeling) |
+| Python + Pandas |
+| Git / GitHub |
 
 ---
 
-## 📂 Featured Projects
-
-| Project | Tools | Description |
-|---|---|---|
-| [Superstore Sales Analysis](https://github.com/[username]/data-analyst-projects) | Excel, PivotTables | Sales & profit analysis by category, region and monthly trend |
+## Projects ---> https://github.com/okibaczek-lang/Data-Analyst-Projects
 
 *More projects coming as I progress through my learning roadmap.*
 
@@ -40,7 +36,7 @@ Goal: Junior Data Analyst role in 2027
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/[your-linkedin])
+[![LinkedIn](https://www.linkedin.com/in/oktawian-br%C4%85czek-0b9ba2402/)
 
 ---
 
